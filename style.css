@@ -1,0 +1,16 @@
+.grid {
+    display: inline-block;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.49), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.alignment{
+    background: hsl(180, 25%, 80%);
+    text-align: center;
+}
+
+.header{
+    font-family:'Raleway', Helvetica, sans-serif;
+}
